@@ -4,4 +4,4 @@
 1520588207@qq.com
 
 ### 微信：
-![](/wc.png){:height="30%" width="30%"}
+![](/wc.png){:height="20%" width="20%"}
